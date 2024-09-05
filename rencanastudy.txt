@@ -2,3 +2,4 @@ kecerdasan buatan
 system computter
 keamanan komputer
 parallel computing
+algoritma
