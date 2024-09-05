@@ -1,0 +1,4 @@
+javascript
+  type data
+  pengkondisian
+  pengulangan
